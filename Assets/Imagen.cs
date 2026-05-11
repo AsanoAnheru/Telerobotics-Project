@@ -37,9 +37,6 @@ public class RosCompressedImageToRawImage : MonoBehaviour
         if (_tex.LoadImage(data))
         {
             targetRawImage.texture = _tex;
-
-            // (Opcional) si se ve estirada, descomenta:
-            // targetRawImage.SetNativeSize();
         }
         else
         {
