@@ -1006,20 +1006,12 @@
       <HintPath>Library/ScriptAssemblies/Unity.Robotics.ROSTCPConnector.MessageGeneration.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Robotics.Visualizations">
-      <HintPath>Library/ScriptAssemblies/Unity.Robotics.Visualizations.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
       <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Robotics.Visualizations.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Robotics.Visualizations.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Timeline">
